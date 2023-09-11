@@ -1,5 +1,7 @@
 PROJECT.sql
+
 show databases;
+
 show databases;
 
 create database Project;
